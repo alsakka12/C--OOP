@@ -1,0 +1,10 @@
+E:\c#oop\First\First\bin\Debug\First.exe.config
+E:\c#oop\First\First\bin\Debug\First.exe
+E:\c#oop\First\First\bin\Debug\First.pdb
+E:\c#oop\First\First\obj\Debug\First.csprojAssemblyReference.cache
+E:\c#oop\First\First\obj\Debug\First.Form1.resources
+E:\c#oop\First\First\obj\Debug\First.Properties.Resources.resources
+E:\c#oop\First\First\obj\Debug\First.csproj.GenerateResource.cache
+E:\c#oop\First\First\obj\Debug\First.csproj.CoreCompileInputs.cache
+E:\c#oop\First\First\obj\Debug\First.exe
+E:\c#oop\First\First\obj\Debug\First.pdb
